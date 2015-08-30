@@ -12,11 +12,11 @@
 
 @implementation UINavigationController (PushAnimation)
 
--(void)pushViewController:(UIViewController *)viewController animationType:(NSInteger)animationType{
+-(void)pushViewController:(UIViewController *)viewController animationType:(PushAnimation)animationType{
     [self pushViewController:viewController animationType:animationType duration:kDuration];
 }
 
--(void)pushViewController:(UIViewController *)viewController animationType:(NSInteger)animationType duration:(CGFloat)duration{
+-(void)pushViewController:(UIViewController *)viewController animationType:(PushAnimation)animationType duration:(CGFloat)duration{
     //handle unkown type
     if (animationType < CurlUp || animationType > PageUnCurl) {
         [self pushViewController:viewController animated:YES];

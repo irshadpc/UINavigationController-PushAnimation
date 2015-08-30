@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42D6CB35-57D7-4AFC-93ED-5893AAB4183C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PushAnimationDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C8E8FE638B2424F2ED08C67A5EEEF5AB90F4CC1D</key>
+		<string>https://github.com/catchZeng/UINavigationController-PushAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PushAnimationDemo/PushAnimationDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C8E8FE638B2424F2ED08C67A5EEEF5AB90F4CC1D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/catchZeng/UINavigationController-PushAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C8E8FE638B2424F2ED08C67A5EEEF5AB90F4CC1D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C8E8FE638B2424F2ED08C67A5EEEF5AB90F4CC1D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UINavigationController-PushAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>

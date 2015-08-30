@@ -35,18 +35,18 @@ typedef NS_ENUM(NSInteger,PushAnimation)
  *  push with animation
  *
  *  @param viewController  the view ctrl you want to push
- *  @param animationType   see HHPushAnimation enum
+ *  @param animationType   see PushAnimation enum
  *  defalut animation duration is 0.5s
  */
--(void)pushViewController:(UIViewController *)viewController animationType:(NSInteger)animationType;
+-(void)pushViewController:(UIViewController *)viewController animationType:(PushAnimation)animationType;
 
 /**
  *  push with animation
  *
  *  @param viewController  the view ctrl you want to push
- *  @param animationType   see HHPushAnimation enum
+ *  @param animationType   see PushAnimation enum
  *  @param duration        animation duration
  */
--(void)pushViewController:(UIViewController *)viewController animationType:(NSInteger)animationType duration:(CGFloat)duration;
+-(void)pushViewController:(UIViewController *)viewController animationType:(PushAnimation)animationType duration:(CGFloat)duration;
 
 @end

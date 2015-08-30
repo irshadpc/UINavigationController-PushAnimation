@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6263A1301B92A83500AB3097 /* PushTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6263A12F1B92A83500AB3097 /* PushTableViewCell.m */; };
 		62A665E01B898DAC00AD5CCA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 62A665DF1B898DAC00AD5CCA /* main.m */; };
 		62A665E31B898DAC00AD5CCA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 62A665E21B898DAC00AD5CCA /* AppDelegate.m */; };
 		62A665E61B898DAC00AD5CCA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 62A665E51B898DAC00AD5CCA /* ViewController.m */; };
@@ -30,6 +31,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6263A12E1B92A83500AB3097 /* PushTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PushTableViewCell.h; path = ../../../Desktop/PushTableViewCell.h; sourceTree = "<group>"; };
+		6263A12F1B92A83500AB3097 /* PushTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PushTableViewCell.m; path = ../../../Desktop/PushTableViewCell.m; sourceTree = "<group>"; };
 		62A665DA1B898DAC00AD5CCA /* PushAnimationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PushAnimationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62A665DE1B898DAC00AD5CCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		62A665DF1B898DAC00AD5CCA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -101,6 +104,8 @@
 				62A665EA1B898DAC00AD5CCA /* Images.xcassets */,
 				62A665EC1B898DAC00AD5CCA /* LaunchScreen.xib */,
 				62A665DD1B898DAC00AD5CCA /* Supporting Files */,
+				6263A12E1B92A83500AB3097 /* PushTableViewCell.h */,
+				6263A12F1B92A83500AB3097 /* PushTableViewCell.m */,
 			);
 			path = PushAnimationDemo;
 			sourceTree = "<group>";
@@ -244,6 +249,7 @@
 				62A665E61B898DAC00AD5CCA /* ViewController.m in Sources */,
 				62A6660A1B898F8100AD5CCA /* PushViewController.m in Sources */,
 				62A665E31B898DAC00AD5CCA /* AppDelegate.m in Sources */,
+				6263A1301B92A83500AB3097 /* PushTableViewCell.m in Sources */,
 				62A666061B898DD700AD5CCA /* UINavigationController+PushAnimation.m in Sources */,
 				62A665E01B898DAC00AD5CCA /* main.m in Sources */,
 			);
@@ -444,6 +450,7 @@
 				62A665FF1B898DAC00AD5CCA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		62A666001B898DAC00AD5CCA /* Build configuration list for PBXNativeTarget "PushAnimationDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -452,6 +459,7 @@
 				62A666021B898DAC00AD5CCA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
