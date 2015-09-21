@@ -7,4 +7,9 @@ Category of UINavigationController, a variety of push animation effects, and all
 -(void)pushViewController:(UIViewController *)viewController animationType:(NSInteger)animationType;
 -(void)pushViewController:(UIViewController *)viewController animationType:(NSInteger)animationType duration:(CGFloat)duration;
 
+images:
+![image](https://github.com/catchZeng/UINavigationController-PushAnimation/blob/master/Images/1.png ) 
+![image](https://github.com/catchZeng/UINavigationController-PushAnimation/blob/master/Images/2.png ) 
+![image](https://github.com/catchZeng/UINavigationController-PushAnimation/blob/master/Images/3.png ) 
+
 video:http://v.youku.com/v_show/id_XMTMyMzA2NzM4MA==.html?from=y1.7-1.2
